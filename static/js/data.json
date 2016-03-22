@@ -1,0 +1,20 @@
+{
+    "country": [1, -2, 2, 5, 3, 2, 0,1, -2, 2, 5, 3],
+    "beijing": {
+        "images": [
+            "static/images/1.jpg",
+            "static/images/2.jpg",
+            "static/images/3.jpg",
+            "static/images/4.jpg",
+            "static/images/5.jpg",
+            "static/images/6.jpg",
+            "static/images/7.jpg",
+            "static/images/8.jpg",
+            "static/images/9.jpg",
+            "static/images/10.jpg",
+            "static/images/11.jpg",
+            "static/images/12.jpg"
+        ],
+        "data": [11, 11, 15, 13, 12, 13, 10,11, 11, 15, 13, 12]
+    }
+}
